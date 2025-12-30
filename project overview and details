@@ -1,0 +1,25 @@
+# Concert Tour Data Cleaning
+
+This project focuses on cleaning and preparing real-world concert tour data using Microsoft Excel.
+
+## Project Overview
+The dataset contained inconsistent formatting, encoding issues, and mixed data types.  
+The goal was to clean and standardize the data to make it analysis-ready.
+
+## Key Tasks Performed
+- Fixed encoding issues (e.g., â€, special characters)
+- Standardized tour names and text formatting
+- Converted numeric fields into proper number formats
+- Removed unnecessary reference markers
+- Ensured data consistency and readability
+
+## Tools Used
+- Microsoft Excel
+
+## Files Included
+- `Raw_data.csv` → Original uncleaned dataset  
+- `Riddhesh_Samant_Excel_file.xlsx` → Cleaned and processed dataset  
+
+## Outcome
+The final dataset is clean, structured, and ready for further analysis or visualization.
+
